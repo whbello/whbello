@@ -9,7 +9,7 @@
 |<img src="./assets/banner2.png" alt="Banner de mi perfil" width="1000"/>
 </p>
 
-<p align="center"> 
+<p align="left"> 
 	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
 	<!---
 		<a href = "https://commits.top/egypt.html" target="_blank">
