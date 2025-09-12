@@ -9,6 +9,20 @@
 |<img src="./assets/banner2.png" alt="Banner de mi perfil" width="1000"/>
 </p>
 
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
+	<!---
+		<a href = "https://commits.top/egypt.html" target="_blank">
+			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
+		</a>
+	-->
+	<a href = "https://commits.top/egypt.html" target="_blank">
+		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank" height=25px, width=250px/> 
+	</a>
+
+</p>
+
+	
 
 Apasionado por el trabajo en equipos multidisciplinarios
 
@@ -52,6 +66,9 @@ Apasionado por el trabajo en equipos multidisciplinarios
 
 ---
 
+
+
+## 📈 Buscando oportunidades
 
 
 #### 💻 Apasionado por la tecnología, data analyst, data enginner, data science y las soluciones de inteligencia artificial.  
