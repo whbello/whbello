@@ -1,6 +1,7 @@
-## Hi, I'm Wilson ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi, I'm Wilson ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
+#### ¡Bienvenido a mi perfil de GitHub !
 
 
 <!-- Banner -->
@@ -8,14 +9,12 @@
 |<img src="./assets/banner2.png" alt="Banner de mi perfil" width="1000"/>
 </p>
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/tu_usuario/)](https://www.linkedin.com/in/&":")[![Linkedin Badge](https://img.shields.io/badge/-Wilson_Bello_V-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wilson-bello-v)](https://www.linkedin.com/in/wilson-bello-v) 
-[![Yahoo](https://img.shields.io/badge/-yahoo-6001D2?style=flat-square&logo=yahoo&logoColor=white&link=mailto:whbello@yahoo.es)](mailto:whbello@yahoo.es)[![Yahoo Badge](https://img.shields.io/badge/-whbello@yahoo.es-6001D2?style=flat-square&logo=Yahoo!&logoColor=white&link=mailto:whbello@yahoo.es)](mailto:whbello@yahoo.es)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/whbello)](https://github.com/whbello)
+Apasionado por el trabajo en equipos multidisciplinarios
+
+<!-- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>  -->
 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/tu_usuario/)](https://www.linkedin.com/in/tu_usuario/)
 
 
 
@@ -51,7 +50,7 @@
 ![Gamma](https://img.shields.io/badge/-Gamma-6C63FF?style=flat-square&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/-Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 
-
+---
 
 
 
@@ -71,7 +70,10 @@
 </p>
 
 
-
+## Conéctate conmigo:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/wilson-bello-v/)](https://www.linkedin.com/in/wilson-bello-v)
+[![Yahoo Badge](https://img.shields.io/badge/-whbello@yahoo.es-6001D2?style=flat-square&logo=Yahoo!&logoColor=white&link=mailto:whbello@yahoo.es)](mailto:whbello@yahoo.es)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/whbello)](https://github.com/whbello)
 
 
 
