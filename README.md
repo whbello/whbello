@@ -1,30 +1,36 @@
-# Hi, I'm Wilson ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">Hola, soy Wilson <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-
-#### ¡Bienvenido a mi perfil de GitHub !
-
-
-<!-- Banner -->
 <p align="center">
-|<img src="./assets/banner2.png" alt="Banner de mi perfil" width="1000"/>
+  <strong>Data Engineer | Data Analyst | Project Management | Data Scientist</strong>
 </p>
 
-<p align="left"> 
-	<img src="https://komarev.com/ghpvc/?username=whbello&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=20px, width=120px/> 
-	<!---
-		<a href = "https://commits.top/egypt.html" target="_blank">
-			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
-		</a>
-	-->
-	
-</pag>
+<p align="center">
+  <a href="https://www.linkedin.com/in/wilson-bello-v" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:whbello@yahoo.es">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/whbello" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-	
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=whbello&label=Profile%20views&color=0047AB&style=plastic" alt="Profile views"/>
+</p>
 
-Apasionado por el trabajo en equipos multidisciplinarios
+---
 
-<!-- <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>  -->
+<p align="center">
+  <img src="./assets/banner2.png" alt="Banner de mi perfil" width="1000"/>
+</p>
 
+<p align="center">
+  <em>Apasionado por el trabajo en equipos multidisciplinarios</em>
+</p>
+
+---
 
 
 
