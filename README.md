@@ -69,7 +69,7 @@ Apasionado por el trabajo en equipos multidisciplinarios
 
 
 #### 💻 Apasionado por la tecnología, data analyst, data enginner, data science y las soluciones de inteligencia artificial.  
-#### 🌱 Actualmente aprendiendo más sobre **Python**, **Machine Learning** y **DevOps**.  
+#### 🌱 Actualmente profundizando más en **Python**, **Machine Learning** y **DevOps**.  
 #### ⚡ Me gusta crear proyectos prácticos y compartir conocimiento.  
 .
 
