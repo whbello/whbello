@@ -32,45 +32,6 @@
 
 ---
 
-
-
-
-## 🚀 Lenguajes y Herramientas
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-2E8B57?style=flat-square&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Microsoft Office](https://img.shields.io/badge/-Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
-![Microsoft Project](https://img.shields.io/badge/-Project-217346?style=flat-square&logo=microsoftproject&logoColor=white)
-![Primavera](https://img.shields.io/badge/-Primavera-CC0000?style=flat-square&logo=oracle&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-
-
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
-![Microsoft Copilot](https://img.shields.io/badge/-Copilot-5C2D91?style=flat-square&logo=microsoft&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-121212?style=flat-square&logo=anthropic&logoColor=white)
-![NotebookLM](https://img.shields.io/badge/-NotebookLM-34A853?style=flat-square&logo=google&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/-DeepSeek-FF6F00?style=flat-square&logoColor=white)
-![Gamma](https://img.shields.io/badge/-Gamma-6C63FF?style=flat-square&logoColor=white)
-![Google Colab](https://img.shields.io/badge/-Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-
----
-
-
-
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
@@ -83,6 +44,102 @@
 </p>
 
 
+---
+
+## 🎯 Especialidades & Casos de Uso
+
+### 🤖 Machine Learning & Deep Learning
+- **Aprendizaje Supervisado:** Classification, Regression, Anomaly Detection, Time Series Forecasting
+- **Aprendizaje No Supervisado:** Clustering, Dimensionality Reduction, Topic Modeling, Representation Learning
+- **Deep Learning:** CNN, RNN/LSTM, Transformers, Autoencoders, GANs, Computer Vision, NLP
+- **Sistemas de Recomendación:** Collaborative Filtering (EASE, BPR, Item-CF), Content-Based, Hybrid Models, Graph-Based (LightGCN)
+- **Modelos Avanzados:** XGBoost, LightGBM, CatBoost, Stacking, Ensemble Methods
+
+### ⚙️ MLOps & Production ML
+- **Model Lifecycle:** Versionado de modelos, experiment tracking, model registry
+- **Deployment:** FastAPI, Flask, Streamlit, containerización con Docker
+- **Orquestación:** CI/CD pipelines, testing automatizado, rollback strategies
+- **Observabilidad:** Logging, métricas de drift, monitoreo de performance en producción
+- **Optimización:** Hyperparameter tuning (Optuna, GridSearchCV), model compression
+
+### 🏗️ Data Engineering & Architecture
+- **Data Pipelines:** ETL/ELT end-to-end, ingesta batch y streaming
+- **Modelado Dimensional:** Star schema, Snowflake schema, fact & dimension tables, SCD
+- **Cloud Data Warehouses:** Snowflake (optimización de queries, warehouses, governance)
+- **Data Quality:** Validación, profiling, linaje, gobernanza de datos
+- **Integración:** APIs REST, conectores SAP, sistemas legacy, VPP
+
+### 📊 Business Intelligence & Analytics
+- **Dashboarding:** Power BI avanzado, DAX, Power Query (M), modelado semántico
+- **Analytics:** Customer Segmentation (RFM), Cohort Analysis, Churn Prediction
+- **Financial Analytics:** Credit Risk, Fraud Detection, Forecasting, EVM
+- **Project Analytics:** S-curves, Earned Value Management, portfolio dashboards
+
+### 🧠 AI Applications & Research
+- **Generative AI:** LLMs, prompt engineering, RAG, fine-tuning, agentes conversacionales
+- **Sistemas Inteligentes:** Fuzzy logic (CLIPS), sistemas expertos, razonamiento aproximado
+- **Ética de IA:** Deepfake detection, fairness, interpretabilidad, responsible AI
+- **Optimización:** Algoritmos genéticos, Simulated Annealing, ACO, problemas NP-hard
+
+---
+
+## 🛠️ Stack Tecnológico
+
+### **Lenguajes & Core**
+`Python` · `SQL` · `R` · `Bash`
+
+### **Data Science & ML**
+`Pandas` · `NumPy` · `Scikit-learn` · `XGBoost` · `LightGBM` · `Cornac` · `Statsmodels`
+
+### **Deep Learning & AI**
+`TensorFlow` · `Keras` · `PyTorch` · `Hugging Face` · `OpenAI API` · `LangChain`
+
+### **Data Engineering**
+`Snowflake` · `PostgreSQL` · `SQL Server` · `Apache Spark` · `Airflow` · `dbt`
+
+### **MLOps & Deployment**
+`FastAPI` · `Docker` · `GitHub Actions` · `MLflow` · `AWS Lambda` · `Streamlit`
+
+### **Business Intelligence**
+`Power BI` · `DAX` · `Power Query` · `Excel Avanzado` · `Tableau`
+
+### **DevOps & Tools**
+`Git` · `GitHub` · `VS Code` · `Jupyter` · `ClickUp` · `Jira` · `Primavera P6`
+
+---
+
+## 🧭 Principios de Ingeniería
+
+### 🔄 Ciclo End-to-End
+1. **Business Framing** — Traducir problemas de negocio en hipótesis modelables y métricas accionables
+2. **Data Discovery** — Exploración crítica, evaluación de calidad, identificación de sesgos y gaps
+3. **Feature Engineering** — Creación de variables con fundamento estadístico y de dominio
+4. **Modeling & Experimentation** — Benchmarking riguroso, trade-off interpretabilidad vs. performance
+5. **Validation** — Métricas alineadas al negocio, cross-validation, pruebas de robustez
+6. **Productization** — Código limpio, tested, documentado y listo para CI/CD
+7. **Monitoring & Iteration** — Métricas de drift, retraining strategies, mejora continua
+
+### 💼 Enfoque en Impacto de Negocio
+- **ROI-Driven:** Cada modelo se evalúa por su impacto económico, no solo por métricas técnicas
+- **Stakeholder Communication:** Traducción fluida entre audiencias técnicas y directivas
+- **Cost-Aware Engineering:** Balance entre complejidad del modelo y costo de operación
+- **Data Sovereignty:** Arquitecturas respetuosas con compliance, privacidad y regulación local
+
+### 🏛️ Calidad & Buenas Prácticas
+- **Código Limpio:** PEP 8, type hints, docstrings, modularización
+- **Reproducibilidad:** Seeds fijas, versionado de datos y modelos, entornos containerizados
+- **Testing:** Unit tests, integration tests, data validation con Great Expectations / Pydantic
+- **Documentación:** READMEs completos, architecture decision records (ADR), diagramas
+
+---
+
+## 🎓 Formación Continua
+
+- 📚 **Data Science Bootcamp** — SoyHenry (Proyecto Final: NEXUS RECSYS)
+- 🏗️ **Enfoque actual:** Sistemas de Recomendación · MLOps · Generative AI · Arquitecturas de Datos
+
+
+---
 ## Conéctate conmigo:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/wilson-bello-v/)](https://www.linkedin.com/in/wilson-bello-v)
 [![Yahoo Badge](https://img.shields.io/badge/-whbello@yahoo.es-6001D2?style=flat-square&logo=Yahoo!&logoColor=white&link=mailto:whbello@yahoo.es)](mailto:whbello@yahoo.es)
